@@ -1,6 +1,7 @@
-The data for this exercise has been derived from the `Indeed Data Scientist/Analyst/Engineer` [dataset](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) on kaggle.com  
+This is part of an assignment I completed for a class.  
+I used KEY WORDS in SQL such as: SELECT, FROM, LIMIT, WHERE, AND, ILIKE, NOT, GROUP BY, ORDER BY, DISTINCT, COUNT, and many AGGREGATIONS.  
 
-#### Provide the SQL queries and answers for the following questions/tasks using the data_analyst_jobs table you have created in PostgreSQL:
+This exploration of the dataset was a good tool to practice some my SQL skills. The questions I answered are:
 
 1.	How many rows are in the data_analyst_jobs table?
 
